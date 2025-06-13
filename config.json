@@ -37,15 +37,15 @@
             "MX_PROXY": "0",
             "enabled": "1"
         },
-         "DDLStream": {
- "url": "https://ddlstreamitaly.co",
- "cookies": {
- "ips4_device_key": "1496c03312d318b557ff53512202e757",
- "ips4_IPSSessionFront": "d9ace0029696972877e2a5e3614a333b",
- "ips4_member_id": "4030088",
- "ips4_login_key": "71a501781ba479dfb91b40147e637daf"
- },
- "enabled": "1"
+        "DDLStream": {
+            "url": "https://ddlstreamitaly.co",
+            "cookies": {
+                "ips4_device_key": "4d593f81e70b49c0dbe21631c43d7c89",
+                "ips4_IPSSessionFront": "6b5fc4a527677121f0b9830167fe1062",
+                "ips4_member_id": "4030426",
+                "ips4_login_key": "735a7725fe58068c32b5b85546290525"
+            },
+            "enabled": "1"
         },
         "Guardaserie": {
             "url": "https://guardaserietv.blog",
@@ -66,17 +66,17 @@
             "OST_PROXY": "0"
         },
         "AnimeWorld": {
-            "url": "https://www.animeworld.so",
+            "url": "https://www.animeworld.ac",
             "enabled": "1",
             "AW_ForwardProxy": "0",
             "AW_PROXY": "1"
         },
         "SkyStreaming": {
-            "url": "https://skystreaming.download",
+            "url": "https://skystreaming.stream",
             "enabled": "1"
         },
         "DaddyLiveHD": {
-            "url": "https://daddylive.mp",
+            "url": "https://daddylive.dad",
             "enabled": "1"
         }
     },
